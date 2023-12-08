@@ -136,6 +136,7 @@ h1 {
 .main-portfolio__container img {
     width: auto;
     max-height: 20rem;
+    max-width: 90%;
     border-radius: 10px;
     box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2),
         0 6px 10px 0 rgba(0, 0, 0, 0.19);
